@@ -1,0 +1,31 @@
+#Referencias
+#Index:https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html
+#https://pandas.pydata.org/pandas-docs/version/0.15.0/indexing.html
+#https://towardsdatascience.com/data-science-with-python-intro-to-loading-and-subsetting-data-with-pandas-9f26895ddd7f
+
+#Listas e tuplas:https://thispointer.com/python-read-csv-into-a-list-of-lists-or-tuples-or-dictionaries-import-csv-to-list/
+
+#tonumpy:https://stackoverflow.com/questions/13187778/convert-pandas-dataframe-to-numpy-array/
+
+#estruturacao do dado - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
+
+#https://pandas.pydata.org/pandas-docs/stable/user_guide/dsintro.html
+
+#export csv: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.to_csv.html
+
+
+Treinamento
+
+# Testes
+
+Acessar a coluna estimated_population com uma lista no índice 0.
+#teste0 = dataset_indexEstados.estimated_population[list_estadosfilter[0]].mean()
+#print(teste0)
+
+#teste1 = dataset_indexEstados.new_confirmed['AC'].sum()
+#print(teste1)
+
+#teste2 = dataset_indexEstados.new_deaths['AC'].sum()
+#print(teste2)
+
+#print(Total)
